@@ -1,6 +1,9 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
+https://sinalpublico.com/player3/ch.php?canal=premiereclubes
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere Clubes
 https://brxscanaisentretenimento.blogspot.com/p/premier-clube.html
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="Esportes",Premiere 2
